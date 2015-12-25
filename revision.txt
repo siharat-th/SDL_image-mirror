@@ -1,1 +1,1 @@
-Revision 143: Added support for dynamically loading libjpeg, libpng, and libtiff.
+Revision 144: -1
