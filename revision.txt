@@ -1,1 +1,1 @@
-Revision 306: Fixed name of framework in example program
+Revision 307: Switched compatibility version to 1 since the ABI is compatible with previous versions
