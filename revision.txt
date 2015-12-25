@@ -1,1 +1,1 @@
-Revision 377: Fixed SDL2main.lib dependency
+Revision 378: Updated support for Android
