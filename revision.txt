@@ -1,1 +1,1 @@
-Revision 189: Added ICO and CUR support to SDL_image
+Revision 190: Added a CHANGES note for couriersud's checkin
