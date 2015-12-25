@@ -1,1 +1,1 @@
-Revision 122: Use AC_CANONICAL_HOST instead of AC_CANONICAL_SYSTEM
+Revision 123: Date
