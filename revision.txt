@@ -1,1 +1,1 @@
-Revision 360: Torsten Stremlau added support for alpha and lossless WEBP images
+Revision 361: Fixed bug setting colorkey for indexed PNG images
