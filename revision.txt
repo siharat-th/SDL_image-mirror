@@ -1,1 +1,1 @@
-Revision 117: Fixed image type functions so they seek back to where they started
+Revision 118: If there's an error loading an image, seek back to the start of the image.
