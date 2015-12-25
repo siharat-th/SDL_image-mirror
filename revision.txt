@@ -1,1 +1,1 @@
-Revision 215: Catch libpng12.so.0
+Revision 216: Fixed bug #827
