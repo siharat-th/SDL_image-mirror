@@ -1,1 +1,1 @@
-Revision 166: Allow detection of PNG images without necessarily being able to dynamically load the PNG library.
+Revision 167: * PNG and TIFF images are correctly identified even if dynamic libraries
