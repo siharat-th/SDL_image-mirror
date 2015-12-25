@@ -1,1 +1,1 @@
-Revision 429: Disable building webp support on Android unless you create a symlink to the webp directory to pick up it's Android.mk
+Revision 430: Fixed building with libpng 1.4
