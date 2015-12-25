@@ -1,1 +1,1 @@
-Revision 396: Added weak link support for the webp framework so it can be removed without breaking SDL_image
+Revision 397: Don't accidentally compile miniz as a separate C file
