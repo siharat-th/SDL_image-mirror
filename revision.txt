@@ -1,1 +1,1 @@
-Revision 175: Updated Visual C++ projects and graphics libraries
+Revision 176: Fixed build warnings
