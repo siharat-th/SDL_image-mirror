@@ -1,1 +1,1 @@
-Revision 172: Whoops, SDL_mixer uses SMPEG, SDL_image doesn't.
+Revision 173: Updated cross-compiling support for latest image libraries
