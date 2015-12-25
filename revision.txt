@@ -1,1 +1,1 @@
-Revision 72: *** empty log message ***
+Revision 73: Added shared library support for MacOS X
