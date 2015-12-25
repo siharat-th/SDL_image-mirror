@@ -1,1 +1,1 @@
-Revision 148: Fixed warnings with MPW
+Revision 149: Updated MPW Makefile to build shared library and dynamically load image libraries
