@@ -1,1 +1,1 @@
-Revision 439: Added base-level project files for the Windows 8.0/RT variant of WinRT
+Revision 440: Added base-level project files for the Windows Phone 8.0 variant of WinRT
