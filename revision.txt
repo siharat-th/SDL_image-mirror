@@ -1,1 +1,1 @@
-Revision 182: Updated build scripts
+Revision 183: Fix for potential buffer overflow in IFF ILBM images (thanks David!).
