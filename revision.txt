@@ -1,1 +1,1 @@
-Revision 193: QNX Packager is no longer shipped with QNX
+Revision 194: Removed reference to qpg file.
