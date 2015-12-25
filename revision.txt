@@ -1,1 +1,1 @@
-Revision 477: Merged Ryan's change to fix BMP loading in http
+Revision 478: Updated Visual Studio projects
