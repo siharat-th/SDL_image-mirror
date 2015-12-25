@@ -1,1 +1,1 @@
-Revision 179: Switched afxres.h to winresrc.h
+Revision 180: Fixed some test program dependencies.
