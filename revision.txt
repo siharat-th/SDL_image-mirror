@@ -1,1 +1,1 @@
-Revision 353: Added the debian files to the dist build target
+Revision 354: Updated library version to 2.0 for consistency with SDL 2.0
