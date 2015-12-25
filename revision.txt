@@ -1,1 +1,1 @@
-Revision 183: Fix for potential buffer overflow in IFF ILBM images (thanks David!).
+Revision 184: Fixed buffer overflow in BMP loading code, discovered by j00ru//vx
