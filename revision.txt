@@ -1,1 +1,1 @@
-Revision 307: Switched compatibility version to 1 since the ABI is compatible with previous versions
+Revision 308: Fixed loading 8-bit PNG images on Mac OS X
