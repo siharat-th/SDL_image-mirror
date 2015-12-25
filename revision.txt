@@ -1,1 +1,1 @@
-Revision 402: Make sure the .m files come from the source directory
+Revision 403: Run an update loop to refresh the display if the window is obscured for some reason.
