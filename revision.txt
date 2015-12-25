@@ -1,1 +1,1 @@
-Revision 427: Fixed bug 2098 - Pointer variable not initialized in IMG_SavePNG_RW()
+Revision 428: Fixed bug 2120 - SDL2_image exports miniz symbols
