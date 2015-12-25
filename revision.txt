@@ -1,1 +1,1 @@
-Revision 438: Updated cross-compile install location
+Revision 439: Added base-level project files for the Windows 8.0/RT variant of WinRT
