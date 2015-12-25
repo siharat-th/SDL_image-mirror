@@ -1,1 +1,1 @@
-Revision 185: Updated windows DLL version
+Revision 186: Updated copyright date
