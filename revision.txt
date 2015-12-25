@@ -1,1 +1,1 @@
-Revision 367: Fixed bug 1821 - IMG_LoadLBM/PNM/XCF_RW() crash with a heap corruption on loading LBM, PNM or XCF images
+Revision 368: Cleaned up whitespace for the 2.0.0 release
