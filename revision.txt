@@ -1,1 +1,1 @@
-Revision 254: Added at least some error message if the framework couldn't load the image.
+Revision 255: Added description comment
