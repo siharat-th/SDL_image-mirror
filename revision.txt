@@ -1,1 +1,1 @@
-Revision 370: Updated projects for the latest image libraries
+Revision 371: Reverted auto-whitespace fixes
