@@ -1,1 +1,1 @@
-Revision 314: Added third-party source archives to the SDL website
+Revision 315: Added tag release-1.2.12 for changeset d46c630f2cd6
