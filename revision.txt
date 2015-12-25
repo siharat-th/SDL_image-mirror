@@ -1,1 +1,1 @@
-Revision 386: Use LOCAL_C_INCLUDES instead of explicitly adding -I to the CFLAGS
+Revision 387: Use the full path for the SDL include directory
