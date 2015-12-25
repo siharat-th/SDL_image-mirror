@@ -1,1 +1,1 @@
-Revision 5: TIFF support is disabled by default
+Revision 6: Don't crash when cross-compiled for Win32
