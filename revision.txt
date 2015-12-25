@@ -1,1 +1,1 @@
-Revision 228: Eric Wing to Sam
+Revision 229: Added the pkg-config files to the RPM
