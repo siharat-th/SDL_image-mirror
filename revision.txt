@@ -1,1 +1,1 @@
-Revision 384: Updated Info.plist for new version
+Revision 385: Added a changelog note for the 2.0 release
