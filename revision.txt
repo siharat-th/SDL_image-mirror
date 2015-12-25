@@ -1,1 +1,1 @@
-Revision 142: Updated Xcode projects from Eric Wing
+Revision 143: Added support for dynamically loading libjpeg, libpng, and libtiff.
