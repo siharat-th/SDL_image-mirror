@@ -1,1 +1,1 @@
-Revision 305: Fixed import library location
+Revision 306: Fixed name of framework in example program
