@@ -1,1 +1,1 @@
-Revision 295: Updated the iOS project
+Revision 296: More project cleanup
