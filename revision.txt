@@ -1,1 +1,1 @@
-Revision 399: Updated Visual Studio project
+Revision 400: Use OutDir, which is correct for all configurations and all platforms.
