@@ -1,1 +1,1 @@
-Revision 23: Fixed bugs in PPM support, added ASCII PPM support
+Revision 24: Added general PNM (PPM/PGM/PBM) support
