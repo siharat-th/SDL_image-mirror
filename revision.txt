@@ -1,1 +1,1 @@
-Revision 343: Added VS2010 and VS2012 projects; updates for VS compile; fixes from VS code analysis and code review
+Revision 344: Merged with tip
