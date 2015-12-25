@@ -1,1 +1,1 @@
-Revision 132: -1
+Revision 133: .cvsignore is a little obsolete.
