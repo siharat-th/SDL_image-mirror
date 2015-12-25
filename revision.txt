@@ -1,1 +1,1 @@
-Revision 458: Fixed supporting multiple frameworks
+Revision 459: Strip the binaries before signing them, in release configuration
