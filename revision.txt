@@ -1,1 +1,1 @@
-Revision 442: Fixed bug 2490 - [PATCH] Fix options for android builds
+Revision 443: Fixed bug 2454 - Crash when loading some XPM files
