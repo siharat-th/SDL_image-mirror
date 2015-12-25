@@ -1,1 +1,1 @@
-Revision 418: Ran autogen.sh after updating sdl2.m4
+Revision 419: Fixed bug 2010 - Memory leaks in do_layer_surface function in IMG_xcf.c file
