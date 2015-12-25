@@ -1,1 +1,1 @@
-Revision 320: Updated for SDL 2.0
+Revision 321: Switched from SDL_image to SDL2_image
