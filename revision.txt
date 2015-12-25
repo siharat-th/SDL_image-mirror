@@ -1,1 +1,1 @@
-Revision 237: In the process of tracking down bug #868, made ImageIO the default for building using command line tools, and cleaned up the ImageIO image loading code.
+Revision 238: There's Host endianness for the channel order.
