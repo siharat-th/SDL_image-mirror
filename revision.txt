@@ -1,1 +1,1 @@
-Revision 178: Use rpmbuild instead of older versions of rpm
+Revision 179: Switched afxres.h to winresrc.h
