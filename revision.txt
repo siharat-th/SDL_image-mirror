@@ -1,1 +1,1 @@
-Revision 144: -1
+Revision 145: Updated Visual C++ project with dynamic image library loading
