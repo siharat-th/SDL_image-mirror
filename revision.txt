@@ -1,1 +1,1 @@
-Revision 406: Fix VS compiler warnings
+Revision 407: Fix VS 2010 and 2012 projects for showimage
