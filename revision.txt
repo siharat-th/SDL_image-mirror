@@ -1,1 +1,1 @@
-Revision 149: Updated MPW Makefile to build shared library and dynamically load image libraries
+Revision 150: Load libpng12.dll instead of libpng13.dll
