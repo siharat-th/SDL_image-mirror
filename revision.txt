@@ -1,1 +1,1 @@
-Revision 346: Added debian packaging for SDL2_image
+Revision 347: Updated copyright year
