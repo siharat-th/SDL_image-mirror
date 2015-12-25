@@ -1,1 +1,1 @@
-Revision 168: Improved detection of libjpeg, libpng, and libtiff at configure time
+Revision 169: Look for dynamic libraries with version numbers on Mac OS X
