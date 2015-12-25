@@ -1,1 +1,1 @@
-Revision 373: The documentation files are in the source directory.
+Revision 374: Updated the "missing" script
