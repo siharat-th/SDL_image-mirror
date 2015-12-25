@@ -1,1 +1,1 @@
-Revision 283: Fixed bug 1236 - CreateCGImageSourceFromRWops leaks
+Revision 284: Fixed bug 1279 - Apps with SDL_* frameworks get rejected from Mac App Store
