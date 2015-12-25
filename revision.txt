@@ -1,1 +1,1 @@
-Revision 419: Fixed bug 2010 - Memory leaks in do_layer_surface function in IMG_xcf.c file
+Revision 420: Updated documentation names for RPM
