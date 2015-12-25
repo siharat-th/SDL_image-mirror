@@ -1,1 +1,1 @@
-Revision 277: Unpacked Xcode project files.
+Revision 278: Michael Bonfils added WEBP image support
