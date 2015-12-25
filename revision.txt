@@ -1,1 +1,1 @@
-Revision 328: Updated framework project for SDL2
+Revision 329: Updated Android Makefile for SDL2
