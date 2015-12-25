@@ -1,1 +1,1 @@
-Revision 213: Updated image libraries for Windows
+Revision 214: Fixed bug #522
