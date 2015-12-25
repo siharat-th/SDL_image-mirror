@@ -1,1 +1,1 @@
-Revision 6: Don't crash when cross-compiled for Win32
+Revision 7: 1.1.0
