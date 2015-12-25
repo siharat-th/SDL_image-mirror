@@ -1,1 +1,1 @@
-Revision 325: Updated the ignore file for SDL2_image files
+Revision 326: Fixed SDL_image header location
