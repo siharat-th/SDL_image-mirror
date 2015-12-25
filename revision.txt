@@ -1,1 +1,1 @@
-Revision 308: Fixed loading 8-bit PNG images on Mac OS X
+Revision 309: Added missing changelog item
