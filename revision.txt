@@ -1,1 +1,1 @@
-Revision 453: Fixed bug 2578 - No transparency in XPM files
+Revision 454: Use xcrun to find CpMac
