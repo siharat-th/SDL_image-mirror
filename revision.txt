@@ -1,1 +1,1 @@
-Revision 337: Don't install the library when creating an iOS app archive
+Revision 338: Don't install the static library, search for the framework in the application bundle Frameworks directory.
