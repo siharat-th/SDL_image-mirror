@@ -1,1 +1,1 @@
-Revision 387: Use the full path for the SDL include directory
+Revision 388: Updated ignore file
