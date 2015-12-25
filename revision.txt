@@ -1,1 +1,1 @@
-Revision 243: Fixed crashing typo.  Thanks Vittorio!
+Revision 244: Sam Lantinga - Sat Nov 14 11
