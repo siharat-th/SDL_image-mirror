@@ -1,1 +1,1 @@
-Revision 30: Cross-platform cleanups
+Revision 31: Updated Visual C++ projects
