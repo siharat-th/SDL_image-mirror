@@ -1,1 +1,1 @@
-Revision 236: Use RW_SEEK constants for RWseek()
+Revision 237: In the process of tracking down bug #868, made ImageIO the default for building using command line tools, and cleaned up the ImageIO image loading code.
