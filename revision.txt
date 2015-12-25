@@ -1,1 +1,1 @@
-Revision 184: Fixed buffer overflow in BMP loading code, discovered by j00ru//vx
+Revision 185: Updated windows DLL version
