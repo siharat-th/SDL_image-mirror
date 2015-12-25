@@ -1,1 +1,1 @@
-Revision 257: Added Android Makefile to create an SDL_image shared library
+Revision 258: The SDL library is uppercased
