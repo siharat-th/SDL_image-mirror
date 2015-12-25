@@ -1,1 +1,1 @@
-Revision 133: .cvsignore is a little obsolete.
+Revision 134: Added support for C++ and assembly files, and source in subdirectories
