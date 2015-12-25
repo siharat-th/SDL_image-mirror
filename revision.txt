@@ -1,1 +1,1 @@
-Revision 334: Fixed building Framework with BMP support on Mac OS X
+Revision 335: Fixed building DMG on newer Xcode
