@@ -1,1 +1,1 @@
-Revision 252: Whoops, forgot the changes line
+Revision 253: Switched to using the SDL_image version of SetError()
