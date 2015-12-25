@@ -1,1 +1,1 @@
-Revision 170: Prefer to load libraries by major number, not minor number
+Revision 171: Fixed compiling with SMPEG support
