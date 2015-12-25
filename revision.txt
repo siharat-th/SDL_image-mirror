@@ -1,1 +1,1 @@
-Revision 473: XPM should deal with NULL input correctly (thanks, Nitz!).
+Revision 474: Backed out changeset 65f1bb7a3eb2
