@@ -1,1 +1,1 @@
-Revision 385: Added a changelog note for the 2.0 release
+Revision 386: Use LOCAL_C_INCLUDES instead of explicitly adding -I to the CFLAGS
