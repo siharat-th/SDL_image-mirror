@@ -1,1 +1,1 @@
-Revision 326: Fixed SDL_image header location
+Revision 327: Added the spec file to Mercurial so we can do hg archive for distribution archives
