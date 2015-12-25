@@ -1,1 +1,1 @@
-Revision 312: Fixed bug 1377 - SDL_image 1.2.11 corrupts png of PseudoClass type 8bit
+Revision 313: Bump the version to 1.2.12
