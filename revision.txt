@@ -1,1 +1,1 @@
-Revision 452: Fixed another buffer security warning
+Revision 453: Fixed bug 2578 - No transparency in XPM files
