@@ -1,1 +1,1 @@
-Revision 339: Fixed bug 1640 - More colors recognized for XPM format
+Revision 340: Fixed bug 1413 - Cannot load images with ImageIO enabled on Mac OS X
