@@ -1,1 +1,1 @@
-Revision 368: Cleaned up whitespace for the 2.0.0 release
+Revision 369: Fixed bug 1831 - Memory leak issue in SDL_image-1.2.12/IMG_xpm.c file
