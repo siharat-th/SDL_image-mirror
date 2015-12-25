@@ -1,1 +1,1 @@
-Revision 250: Fixed linker error when building from the command line on Mac OS X
+Revision 251: Fixed decoding HAM6 image with masking
