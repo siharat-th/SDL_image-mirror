@@ -1,1 +1,1 @@
-Revision 116: Date
+Revision 117: Fixed image type functions so they seek back to where they started
