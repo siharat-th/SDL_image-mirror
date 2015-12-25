@@ -1,1 +1,1 @@
-Revision 393: Fixed bug 1432 - SDL 1.2 compatibility for SDL_image HG
+Revision 394: Whoops, don't want to build miniz.c directly
