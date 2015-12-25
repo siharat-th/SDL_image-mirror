@@ -1,1 +1,1 @@
-Revision 190: Added a CHANGES note for couriersud's checkin
+Revision 191: Fixed building SDL_image using configure on Mac OS X
