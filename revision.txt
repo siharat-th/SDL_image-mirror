@@ -1,1 +1,1 @@
-Revision 77: Removed showimage from installed files
+Revision 78: Ryan C. Gordon - Sat, 8 Feb 2003 09
