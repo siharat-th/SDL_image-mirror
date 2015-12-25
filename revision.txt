@@ -1,1 +1,1 @@
-Revision 389: Fixed bug 1886 - SDL_image 2.0rc
+Revision 390: Fixed whitespace code alignment
