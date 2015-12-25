@@ -1,1 +1,1 @@
-Revision 395: Removed obsolete function
+Revision 396: Added weak link support for the webp framework so it can be removed without breaking SDL_image
