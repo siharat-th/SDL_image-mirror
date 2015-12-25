@@ -1,1 +1,1 @@
-Revision 358: Better endian surface mask code (taken from IMG_png.c)
+Revision 359: Fixed loading grayscale PNGs with SDL 2.0
