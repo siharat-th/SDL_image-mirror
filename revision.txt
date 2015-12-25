@@ -1,1 +1,1 @@
-Revision 191: Fixed building SDL_image using configure on Mac OS X
+Revision 192: Updated config.guess and config.sub
