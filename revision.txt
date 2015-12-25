@@ -1,1 +1,1 @@
-Revision 359: Fixed loading grayscale PNGs with SDL 2.0
+Revision 360: Torsten Stremlau added support for alpha and lossless WEBP images
