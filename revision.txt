@@ -1,1 +1,1 @@
-Revision 253: Switched to using the SDL_image version of SetError()
+Revision 254: Added at least some error message if the framework couldn't load the image.
