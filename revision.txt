@@ -1,1 +1,1 @@
-Revision 383: Fixed bug 1884 - Fix png support for libpng 1.5.16
+Revision 384: Updated Info.plist for new version
