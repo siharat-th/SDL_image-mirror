@@ -1,1 +1,1 @@
-Revision 327: Added the spec file to Mercurial so we can do hg archive for distribution archives
+Revision 328: Updated framework project for SDL2
