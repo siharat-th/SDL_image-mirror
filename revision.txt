@@ -1,1 +1,1 @@
-Revision 180: Fixed some test program dependencies.
+Revision 181: Updated version to 1.2.7
