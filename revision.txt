@@ -1,1 +1,1 @@
-Revision 375: Updated version to 2.0
+Revision 376: Updated the Mac OS X archive README with the new version and license
