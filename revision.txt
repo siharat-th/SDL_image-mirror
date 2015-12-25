@@ -1,1 +1,1 @@
-Revision 274: Fat build no longer supports PowerPC
+Revision 275: Fixed some realloc() mistakes that cppcheck discovered.
