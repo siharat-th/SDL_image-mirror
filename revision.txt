@@ -1,1 +1,1 @@
-Revision 484: Cleaned up the Xcode rules a little more
+Revision 485: Updated to latest version of Xcode
