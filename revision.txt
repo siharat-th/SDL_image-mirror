@@ -1,1 +1,1 @@
-Revision 462: Removed duplicate typedef
+Revision 463: Bug 1912 was already fixed, and the last change broke building with libpng 1.5.
