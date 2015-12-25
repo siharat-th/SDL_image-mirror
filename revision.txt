@@ -1,1 +1,1 @@
-Revision 394: Whoops, don't want to build miniz.c directly
+Revision 395: Removed obsolete function
