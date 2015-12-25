@@ -1,1 +1,1 @@
-Revision 281: Updated the README with the new licensing terms
+Revision 282: Better mingw fix, future proof
