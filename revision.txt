@@ -1,1 +1,1 @@
-Revision 483: Fixed bug 2758 - Android issues with NDK r10c and API-21
+Revision 484: Cleaned up the Xcode rules a little more
