@@ -1,1 +1,1 @@
-Revision 342: Fixed bug 1698 - XPM colors can be in upper case and/or lower case
+Revision 343: Added VS2010 and VS2012 projects; updates for VS compile; fixes from VS code analysis and code review
