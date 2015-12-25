@@ -1,1 +1,1 @@
-Revision 165: I don't think we support the alpha anymore.
+Revision 166: Allow detection of PNG images without necessarily being able to dynamically load the PNG library.
