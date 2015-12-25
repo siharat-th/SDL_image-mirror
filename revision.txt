@@ -1,1 +1,1 @@
-Revision 455: Updated config.sub with NaCl configuration
+Revision 456: Updated config.guess to match config.sub
