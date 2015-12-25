@@ -1,1 +1,1 @@
-Revision 428: Fixed bug 2120 - SDL2_image exports miniz symbols
+Revision 429: Disable building webp support on Android unless you create a symlink to the webp directory to pick up it's Android.mk
