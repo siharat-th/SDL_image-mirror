@@ -1,1 +1,1 @@
-Revision 292: Fixed colorspace for ImageIO loading
+Revision 293: Fixed bug 1359 - SDL_Image cannot load monochrome .PNG file
