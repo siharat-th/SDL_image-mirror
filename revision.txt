@@ -1,1 +1,1 @@
-Revision 443: Fixed bug 2454 - Crash when loading some XPM files
+Revision 444: Added JPEG support for WinRT + Windows Phone 8
