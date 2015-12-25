@@ -1,1 +1,1 @@
-Revision 270: Initial changes to support ImageIO on iOS.
+Revision 271: Xcode/iOS
