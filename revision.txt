@@ -1,1 +1,1 @@
-Revision 351: Updated debian files to be consistent across SDL packages
+Revision 352: Updated debian files to be consistent across SDL packages
