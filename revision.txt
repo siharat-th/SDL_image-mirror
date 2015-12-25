@@ -1,1 +1,1 @@
-Revision 163: Don't fail if zlib isn't found
+Revision 164: Added support for building version.rc
