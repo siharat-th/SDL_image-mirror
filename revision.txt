@@ -1,1 +1,1 @@
-Revision 323: Successfully build an SDL2_image RPM
+Revision 324: Updated autotools
