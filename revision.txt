@@ -1,1 +1,1 @@
-Revision 441: Fixed bug 2501 - SDL_image 2 not building JPEG support for Android x86
+Revision 442: Fixed bug 2490 - [PATCH] Fix options for android builds
