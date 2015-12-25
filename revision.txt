@@ -1,1 +1,1 @@
-Revision 409: Updated Debian docs list with README.txt rename
+Revision 410: Updated the name of the copyright file
