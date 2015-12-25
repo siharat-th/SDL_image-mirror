@@ -1,1 +1,1 @@
-Revision 356: Fixed non-alpha images, according to Michael Trebilcock
+Revision 357: Show a message when we use ImageIO support so it's not a surprise
