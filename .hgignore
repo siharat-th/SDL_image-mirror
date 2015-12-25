@@ -7,5 +7,12 @@ Makefile
 libtool
 .deps
 .libs
-SDL_image.pc
-SDL_image.spec
+*.lo
+*.o
+*.la
+*.lai
+*.xcworkspacedata
+*.xcuserdatad
+.DS_Store
+SDL2_image.pc
+showimage
