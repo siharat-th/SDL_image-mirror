@@ -1,1 +1,1 @@
-Revision 336: Updated to SDL 2.0
+Revision 337: Don't install the library when creating an iOS app archive
