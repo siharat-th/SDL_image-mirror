@@ -1,1 +1,1 @@
-Revision 28: Updated for SDL 1.2.0
+Revision 29: Require SDL 1.2.0 or newer
