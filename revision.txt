@@ -1,1 +1,1 @@
-Revision 411: Fixed bug 1943 - Wrong handling of legacy 32bpp BMP files
+Revision 412: Backed out changeset 394898e5b824
