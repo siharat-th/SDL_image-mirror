@@ -1,1 +1,1 @@
-Revision 84: *** empty log message ***
+Revision 85: Updated Visual C++ projects
