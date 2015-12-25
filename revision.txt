@@ -1,1 +1,1 @@
-Revision 260: Added more image formats to the Android build
+Revision 261: Don't compile the showimage test program into the shared library.
