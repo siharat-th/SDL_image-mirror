@@ -1,1 +1,1 @@
-Revision 13: *** empty log message ***
+Revision 14: Added VisualC.zip with JPEG and PNG loading support
