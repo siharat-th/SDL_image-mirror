@@ -1,1 +1,1 @@
-Revision 280: Happy New Year!
+Revision 281: Updated the README with the new licensing terms
