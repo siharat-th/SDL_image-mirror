@@ -1,1 +1,1 @@
-Revision 378: Updated support for Android
+Revision 379: Patched and zipped the external library source code
