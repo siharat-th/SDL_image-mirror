@@ -1,1 +1,1 @@
-Revision 269: Don't try to include VisualC.zip in the dist target
+Revision 270: Initial changes to support ImageIO on iOS.

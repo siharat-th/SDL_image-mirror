@@ -26,7 +26,7 @@ EXTRA_DIST =			\
 	Android.mk		\
 	CHANGES			\
 	version.rc		\
-	VisualC			\
+	VisualC.zip		\
 	VisualCE.zip		\
 	Xcode.tar.gz		\
 	Xcode_iPhone.tar.gz	\
