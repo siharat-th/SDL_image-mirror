@@ -1,1 +1,1 @@
-Revision 258: The SDL library is uppercased
+Revision 259: Include the Android Makefile in the distribution files
