@@ -1,1 +1,1 @@
-Revision 450: Made Win[Phone] 8.1 project file names more consistent with 8.0 counterparts
+Revision 451: Fixed format warnings
