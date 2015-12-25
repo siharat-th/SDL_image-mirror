@@ -1,1 +1,1 @@
-Revision 463: Bug 1912 was already fixed, and the last change broke building with libpng 1.5.
+Revision 464: Passing 0 returns the previously initialized loaders, but if specific loaders were requested, return the set of them that were initialized.
