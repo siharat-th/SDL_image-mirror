@@ -1,1 +1,1 @@
-Revision 388: Updated ignore file
+Revision 389: Fixed bug 1886 - SDL_image 2.0rc
