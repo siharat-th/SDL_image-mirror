@@ -1,1 +1,1 @@
-Revision 381: Leave the image libraries extracted so the Android build will work out of the box.
+Revision 382: Updated gcc-fat.sh for Mac OS X 10.8
