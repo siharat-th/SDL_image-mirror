@@ -1,1 +1,1 @@
-Revision 103: Date
+Revision 104: Updated for Visual C++ 6 build
