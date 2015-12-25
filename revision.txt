@@ -1,1 +1,1 @@
-Revision 293: Fixed bug 1359 - SDL_Image cannot load monochrome .PNG file
+Revision 294: Fixed bug 1361 - Make error when building SDL_image from hg on Haiku - wants ObjectiveC compiler
