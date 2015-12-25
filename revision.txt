@@ -1,1 +1,1 @@
-Revision 150: Load libpng12.dll instead of libpng13.dll
+Revision 151: Maurizio Monge - Sun May 14 13
