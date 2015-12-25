@@ -1,1 +1,1 @@
-Revision 225: SDL_image.spec.in is implicitly included
+Revision 226: Fixed for compiling with gcc 4.2
