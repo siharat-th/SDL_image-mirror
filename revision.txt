@@ -1,1 +1,1 @@
-Revision 467: Fixed bug 2795 - SDL library detection selects the wrong lib
+Revision 468: Moved code signature step to after the framework build step is complete, and don't hardcode the codesign identity
