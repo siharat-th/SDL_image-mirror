@@ -1,1 +1,1 @@
-Revision 155: Don't actually link with libraries you don't have
+Revision 156: Fixed linking JPEG library
