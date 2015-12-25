@@ -1,1 +1,1 @@
-Revision 397: Don't accidentally compile miniz as a separate C file
+Revision 398: Make sure the framework version matches the version of the dylib built from command line.
