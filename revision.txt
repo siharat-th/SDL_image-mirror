@@ -1,1 +1,1 @@
-Revision 478: Updated Visual Studio projects
+Revision 479: Moved copying x86 and x64 libraries from showimage build to SDL2_image build
