@@ -1,1 +1,1 @@
-Revision 135: Don't add NONE/bin to the path - inexplicably fixes building on mingw+msys, apparently
+Revision 136: Packed the OS/2 build files into Watcom-OS2.zip
