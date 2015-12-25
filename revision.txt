@@ -1,1 +1,1 @@
-Revision 266: Ozkan Sezer to slouken
+Revision 267: Fixed libpng version check
