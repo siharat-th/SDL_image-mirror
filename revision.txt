@@ -1,1 +1,1 @@
-Revision 294: Fixed bug 1361 - Make error when building SDL_image from hg on Haiku - wants ObjectiveC compiler
+Revision 295: Updated the iOS project
