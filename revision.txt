@@ -1,1 +1,1 @@
-Revision 456: Updated config.guess to match config.sub
+Revision 457: Fixed code signing release frameworks
