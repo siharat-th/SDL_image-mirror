@@ -1,1 +1,1 @@
-Revision 275: Fixed some realloc() mistakes that cppcheck discovered.
+Revision 276: Fixes a bug where Mingw defines JPEG_TRUE JPEG_FALSE AND JPEG_boolean in libjpeg-8
