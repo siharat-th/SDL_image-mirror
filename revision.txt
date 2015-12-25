@@ -1,1 +1,1 @@
-Revision 414: Fixed bug 1976 - SDL2.m4 shares same variables as SDL.m4 so they cache values
+Revision 415: Fixed bug 1991 - XCF and LBM image loading might lead to random crashes
