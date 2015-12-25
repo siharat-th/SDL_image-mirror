@@ -1,1 +1,1 @@
-Revision 398: Make sure the framework version matches the version of the dylib built from command line.
+Revision 399: Updated Visual Studio project
