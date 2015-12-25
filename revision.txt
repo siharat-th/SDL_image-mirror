@@ -1,1 +1,1 @@
-Revision 195: Added missing ICO and CUR types to Xcode build
+Revision 196: Implemented bug #768
