@@ -1,1 +1,1 @@
-Revision 421: Added tag release_2.0.0 for changeset 05ed5cf4143d
+Revision 422: Fixed the tag name for the SDL 2.0 release
