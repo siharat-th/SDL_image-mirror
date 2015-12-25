@@ -1,1 +1,1 @@
-Revision 403: Run an update loop to refresh the display if the window is obscured for some reason.
+Revision 404: Improved find_lib, gets the latest version of libpng, etc.
