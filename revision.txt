@@ -1,1 +1,1 @@
-Revision 321: Switched from SDL_image to SDL2_image
+Revision 322: Fixed building on Linux
