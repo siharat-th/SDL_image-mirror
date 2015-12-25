@@ -1,1 +1,1 @@
-Revision 167: * PNG and TIFF images are correctly identified even if dynamic libraries
+Revision 168: Improved detection of libjpeg, libpng, and libtiff at configure time
