@@ -1,1 +1,1 @@
-Revision 156: Fixed linking JPEG library
+Revision 157: Updated default cross-compile prefix for new cross-compile toolchain
