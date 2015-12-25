@@ -1,1 +1,1 @@
-Revision 407: Fix VS 2010 and 2012 projects for showimage
+Revision 408: Improved include paths for projects using SDL on Android
