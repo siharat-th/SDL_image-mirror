@@ -1,1 +1,1 @@
-Revision 329: Updated Android Makefile for SDL2
+Revision 330: Switched the SDL 2 autoconf macro to AM_PATH_SDL2
