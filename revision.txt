@@ -1,1 +1,1 @@
-Revision 119: Added support for XV thumbnail images
+Revision 120: Support XCF files by default
