@@ -1,1 +1,1 @@
-Revision 302: Updated Info.plist with the correct bundle identifier
+Revision 303: Moved external frameworks to the "Frameworks" directory for consistency
