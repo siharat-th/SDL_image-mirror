@@ -1,1 +1,1 @@
-Revision 242: Fixed compile warning
+Revision 243: Fixed crashing typo.  Thanks Vittorio!
