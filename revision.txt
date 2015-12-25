@@ -1,1 +1,1 @@
-Revision 229: Added the pkg-config files to the RPM
+Revision 230: Always use IMG_Init() to keep the image libraries resident, since most of the time you'll be loading lots of image.
