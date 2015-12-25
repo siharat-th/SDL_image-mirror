@@ -1,1 +1,1 @@
-Revision 162: Oops, didn't mean to commit debug code.
+Revision 163: Don't fail if zlib isn't found
