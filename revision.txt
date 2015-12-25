@@ -1,1 +1,1 @@
-Revision 139: Updated Visual C++ project
+Revision 140: Removed obsolete library file
