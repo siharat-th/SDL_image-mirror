@@ -1,1 +1,1 @@
-Revision 310: Updated to jpeg-v8d
+Revision 311: Added tag release-1.2.11 for changeset 352bda544924
