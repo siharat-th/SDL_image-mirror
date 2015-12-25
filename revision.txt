@@ -1,1 +1,1 @@
-Revision 134: Added support for C++ and assembly files, and source in subdirectories
+Revision 135: Don't add NONE/bin to the path - inexplicably fixes building on mingw+msys, apparently
