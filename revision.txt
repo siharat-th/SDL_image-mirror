@@ -1,1 +1,1 @@
-Revision 291: Added a release note calling out the Mac OS X framework name change
+Revision 292: Fixed colorspace for ImageIO loading
