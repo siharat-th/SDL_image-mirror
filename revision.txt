@@ -1,1 +1,1 @@
-Revision 363: We're using the alpha component of the palette entries, let's name it appropriately.
+Revision 364: BMP files don't contain alpha information in the palette, the fourth element is reserved and must be zero.
