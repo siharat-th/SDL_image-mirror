@@ -1,1 +1,1 @@
-Revision 454: Use xcrun to find CpMac
+Revision 455: Updated config.sub with NaCl configuration
