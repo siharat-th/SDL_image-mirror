@@ -1,1 +1,1 @@
-Revision 289: Updated the project for release.
+Revision 290: Renamed the COPYING files to LICENSE so it's more clear to people not used to the GPL name convention.
