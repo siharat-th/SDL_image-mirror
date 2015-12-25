@@ -1,1 +1,1 @@
-Revision 471: Fixed whitespace so it's easier to read
+Revision 472: Make XPM loader deal with NULL input correctly.
