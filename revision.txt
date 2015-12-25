@@ -1,1 +1,1 @@
-Revision 263: Thomas Klausner to jbowler, Sam, PNG/MNG
+Revision 264: Whoops, forgot to remove the packed version
