@@ -1,1 +1,1 @@
-Revision 262: Updated version to 1.2.11
+Revision 263: Thomas Klausner to jbowler, Sam, PNG/MNG
