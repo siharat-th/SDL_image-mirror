@@ -1,1 +1,1 @@
-Revision 364: BMP files don't contain alpha information in the palette, the fourth element is reserved and must be zero.
+Revision 365: Fixed bug 1801 - typo in the xcf decoder, condition is always false
