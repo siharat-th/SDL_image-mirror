@@ -1,1 +1,1 @@
-Revision 27: Another patch from Mattias
+Revision 28: Updated for SDL 1.2.0
