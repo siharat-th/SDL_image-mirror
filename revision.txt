@@ -1,1 +1,1 @@
-Revision 40: Oops, typos in configure.in
+Revision 41: Mattias Engdeg�rd - Tue Jul 31 04
