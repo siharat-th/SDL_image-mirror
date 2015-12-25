@@ -1,1 +1,1 @@
-Revision 405: Updated configure
+Revision 406: Fix VS compiler warnings
