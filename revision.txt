@@ -1,1 +1,1 @@
-Revision 251: Fixed decoding HAM6 image with masking
+Revision 252: Whoops, forgot the changes line
