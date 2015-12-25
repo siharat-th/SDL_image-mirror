@@ -1,1 +1,1 @@
-Revision 335: Fixed building DMG on newer Xcode
+Revision 336: Updated to SDL 2.0
