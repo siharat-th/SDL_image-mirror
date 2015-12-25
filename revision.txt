@@ -1,1 +1,1 @@
-Revision 379: Patched and zipped the external library source code
+Revision 380: Fixed compiling with libpng12
