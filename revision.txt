@@ -1,1 +1,1 @@
-Revision 460: Workaround for bogus bitmasks used by ImageMagic and the GIMP
+Revision 461: Fixed bug 1912 - png_const_bytep should not be used in libpng >= 14
