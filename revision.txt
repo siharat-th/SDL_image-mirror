@@ -1,1 +1,1 @@
-Revision 273: Fixed bug 1179 (IMG_jpg.c doesn't build with the new libjpeg)
+Revision 274: Fat build no longer supports PowerPC
