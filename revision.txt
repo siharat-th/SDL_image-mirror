@@ -1,1 +1,1 @@
-Revision 309: Added missing changelog item
+Revision 310: Updated to jpeg-v8d
