@@ -1,1 +1,1 @@
-Revision 331: Updated iOS project to build SDL 2.0 library
+Revision 332: Apple's ImageIO framework doesn't properly load alpha for 32-bit BMP files.
