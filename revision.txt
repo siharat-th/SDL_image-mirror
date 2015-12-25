@@ -1,1 +1,1 @@
-Revision 435: Fixed bug 2235 - Add support for Visual Studio 2013
+Revision 436: Fixed bug 2295 - Memory leak in IMG_LoadWEBP_RW
