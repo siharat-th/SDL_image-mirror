@@ -1,1 +1,1 @@
-Revision 39: *** empty log message ***
+Revision 40: Oops, typos in configure.in
