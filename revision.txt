@@ -1,1 +1,1 @@
-Revision 436: Fixed bug 2295 - Memory leak in IMG_LoadWEBP_RW
+Revision 437: Updated cross-compile install location
