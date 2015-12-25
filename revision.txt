@@ -1,1 +1,1 @@
-Revision 249: Jamie Knight to slouken
+Revision 250: Fixed linker error when building from the command line on Mac OS X
