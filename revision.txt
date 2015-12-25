@@ -1,1 +1,1 @@
-Revision 265: Fixed compiling with libpng12
+Revision 266: Ozkan Sezer to slouken
