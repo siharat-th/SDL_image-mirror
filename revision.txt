@@ -1,1 +1,1 @@
-Revision 272: Merged Eric's changes to support ImageIO on iOS
+Revision 273: Fixed bug 1179 (IMG_jpg.c doesn't build with the new libjpeg)
