@@ -1,1 +1,1 @@
-Revision 422: Fixed the tag name for the SDL 2.0 release
+Revision 423: Updated documentation file names
