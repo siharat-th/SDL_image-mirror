@@ -1,1 +1,1 @@
-Revision 282: Better mingw fix, future proof
+Revision 283: Fixed bug 1236 - CreateCGImageSourceFromRWops leaks
