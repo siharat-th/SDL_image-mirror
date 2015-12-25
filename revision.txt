@@ -1,1 +1,1 @@
-Revision 108: Date
+Revision 109: SDL_image jpeg IPTC patch.
