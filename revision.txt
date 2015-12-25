@@ -1,1 +1,1 @@
-Revision 333: Not all the source files were being built into the library, so I removed and re-added them.
+Revision 334: Fixed building Framework with BMP support on Mac OS X
