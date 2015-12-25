@@ -1,1 +1,1 @@
-Revision 476: More proper fix for Bugzilla #2965.
+Revision 477: Merged Ryan's change to fix BMP loading in http
