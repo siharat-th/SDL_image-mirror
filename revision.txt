@@ -1,1 +1,1 @@
-Revision 431: Updated to miniz 1.15
+Revision 432: Added MINIZ_STATIC to the new function mz_free()
