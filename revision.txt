@@ -1,1 +1,1 @@
-Revision 173: Updated cross-compiling support for latest image libraries
+Revision 174: Fixed bug #409
