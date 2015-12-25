@@ -1,1 +1,1 @@
-Revision 145: Updated Visual C++ project with dynamic image library loading
+Revision 146: Need a return value here
