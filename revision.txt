@@ -1,1 +1,1 @@
-Revision 160: Updated version to 1.2.6
+Revision 161: Split acinclude.m4 into its component parts for easy updating
