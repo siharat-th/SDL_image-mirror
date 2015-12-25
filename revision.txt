@@ -1,1 +1,1 @@
-Revision 362: No need for volatile here.
+Revision 363: We're using the alpha component of the palette entries, let's name it appropriately.
