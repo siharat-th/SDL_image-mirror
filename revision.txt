@@ -1,1 +1,1 @@
-Revision 400: Use OutDir, which is correct for all configurations and all platforms.
+Revision 401: Added the external directory to the release archive
