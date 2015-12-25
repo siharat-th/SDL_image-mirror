@@ -1,1 +1,1 @@
-Revision 361: Fixed bug setting colorkey for indexed PNG images
+Revision 362: No need for volatile here.
