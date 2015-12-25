@@ -1,1 +1,1 @@
-Revision 256: Added TGA image support on iPhone
+Revision 257: Added Android Makefile to create an SDL_image shared library
