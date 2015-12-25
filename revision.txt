@@ -1,1 +1,1 @@
-Revision 434: Fixed signed/unsigned warning
+Revision 435: Fixed bug 2235 - Add support for Visual Studio 2013
