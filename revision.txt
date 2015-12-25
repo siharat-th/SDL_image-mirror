@@ -1,1 +1,1 @@
-Revision 404: Improved find_lib, gets the latest version of libpng, etc.
+Revision 405: Updated configure
