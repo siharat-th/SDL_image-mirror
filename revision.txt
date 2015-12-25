@@ -1,1 +1,1 @@
-Revision 138: Fixed execv warning when libtool creates wrapper executables
+Revision 139: Updated Visual C++ project
