@@ -1,1 +1,1 @@
-Revision 348: Added the debian examples Makefile
+Revision 349: Changed the name of the package for consistency with libsdl2
