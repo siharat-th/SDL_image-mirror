@@ -1,1 +1,1 @@
-Revision 79: *** empty log message ***
+Revision 80: Mattias fixed compile errors on MacOS X
