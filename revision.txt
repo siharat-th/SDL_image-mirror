@@ -1,1 +1,1 @@
-Revision 466: Fixed bug 2788 - color space fix for ImageIO backend (OS X, iOS)
+Revision 467: Fixed bug 2795 - SDL library detection selects the wrong lib
