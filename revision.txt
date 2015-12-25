@@ -1,1 +1,1 @@
-Revision 22: Mattias Engdeg�rd - Fri Mar  2 14
+Revision 23: Fixed bugs in PPM support, added ASCII PPM support
