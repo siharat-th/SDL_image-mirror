@@ -1,1 +1,1 @@
-Revision 432: Added MINIZ_STATIC to the new function mz_free()
+Revision 433: Fixed bug 2219 - BMP loader do not handle big BITMAPINFOHEADER structure
