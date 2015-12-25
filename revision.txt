@@ -1,1 +1,1 @@
-Revision 192: Updated config.guess and config.sub
+Revision 193: QNX Packager is no longer shipped with QNX
