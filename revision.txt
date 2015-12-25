@@ -1,1 +1,1 @@
-Revision 278: Michael Bonfils added WEBP image support
+Revision 279: SDL_image uses ImageIO for ios4 and osx and UIImage on ios3
