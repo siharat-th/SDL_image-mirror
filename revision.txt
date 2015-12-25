@@ -1,1 +1,1 @@
-Revision 430: Fixed building with libpng 1.4
+Revision 431: Updated to miniz 1.15
