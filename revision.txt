@@ -1,1 +1,1 @@
-Revision 459: Strip the binaries before signing them, in release configuration
+Revision 460: Workaround for bogus bitmasks used by ImageMagic and the GIMP
