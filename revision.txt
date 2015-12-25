@@ -1,1 +1,1 @@
-Revision 176: Fixed build warnings
+Revision 177: Detect libjpeg.so.62
