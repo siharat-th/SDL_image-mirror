@@ -1,1 +1,1 @@
-Revision 209: Updated with new libpng and zlib
+Revision 210: Updated version for mingw32 compiler
