@@ -1,1 +1,1 @@
-Revision 352: Updated debian files to be consistent across SDL packages
+Revision 353: Added the debian files to the dist build target
