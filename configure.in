@@ -1,5 +1,5 @@
 dnl Process this file with autoconf to produce a configure script.
-AC_INIT(README)
+AC_INIT(README.txt)
 
 dnl Set various version strings - taken gratefully from the GTk sources
 
@@ -11,11 +11,11 @@ dnl Set various version strings - taken gratefully from the GTk sources
 # if backwards compatibility has been broken,
 # set BINARY_AGE and INTERFACE_AGE to 0.
 
-MAJOR_VERSION=1
-MINOR_VERSION=2
-MICRO_VERSION=13
-INTERFACE_AGE=5
-BINARY_AGE=13
+MAJOR_VERSION=2
+MINOR_VERSION=0
+MICRO_VERSION=0
+INTERFACE_AGE=0
+BINARY_AGE=0
 VERSION=$MAJOR_VERSION.$MINOR_VERSION.$MICRO_VERSION
 
 AC_SUBST(MAJOR_VERSION)
@@ -42,7 +42,7 @@ dnl Detect the canonical build and host environments
 AC_CANONICAL_HOST
 
 dnl Setup for automake
-AM_INIT_AUTOMAKE(SDL_image, $VERSION)
+AM_INIT_AUTOMAKE(SDL2_image, $VERSION)
 
 dnl Check for tools
 AC_PROG_LIBTOOL
@@ -65,7 +65,7 @@ case "$host" in
     *-*-cygwin* | *-*-mingw32*)
         if test "$build" != "$host"; then # cross-compiling
             # Default cross-compile location
-            ac_default_prefix=/usr/local/cross-tools/i386-mingw32
+            ac_default_prefix=/usr/local/cross-tools/$host
         else
             # Look for the location of the tools and install there
             if test "$BUILD_PREFIX" != ""; then
@@ -80,7 +80,7 @@ case "$host" in
         AC_ARG_ENABLE([imageio], [AC_HELP_STRING([--enable-imageio], [use native Mac OS X frameworks for loading images [default=yes]])],
                       [], [enable_imageio=yes])
         if test x$enable_imageio = xyes; then
-            IMG_LIBS="-Wl,-framework,ApplicationServices $IMG_LIBS"
+            IMG_LIBS="-Wl,-framework,ApplicationServices -lobjc $IMG_LIBS"
         else
             CFLAGS="$CFLAGS -DSDL_IMAGE_USE_COMMON_BACKEND"
         fi
@@ -103,8 +103,8 @@ find_lib()
     else
         host_lib_path="/usr/$base_libdir /usr/local/$base_libdir"
     fi
-    for path in $gcc_bin_path $gcc_lib_path $env_lib_path $host_lib_path; do
-        lib=[`ls -- $path/$1 2>/dev/null | sort | sed 's/.*\/\(.*\)/\1/; q'`]
+    for path in $env_lib_path $gcc_bin_path $gcc_lib_path $host_lib_path; do
+        lib=[`ls -- $path/$1 2>/dev/null | sed -e '/\.so\..*\./d' -e 's,.*/,,' | sort | tail -1`]
         if test x$lib != x; then
             echo $lib
             return
@@ -113,9 +113,9 @@ find_lib()
 }
 
 dnl Check for SDL
-SDL_VERSION=1.2.10
+SDL_VERSION=2.0.0
 AC_SUBST(SDL_VERSION)
-AM_PATH_SDL($SDL_VERSION,
+AM_PATH_SDL2($SDL_VERSION,
             :,
            AC_MSG_ERROR([*** SDL version $SDL_VERSION not found!])
 )
@@ -159,7 +159,11 @@ AC_ARG_ENABLE([webp], [AC_HELP_STRING([--enable-webp], [support loading WEBP ima
 AC_ARG_ENABLE([webp-shared], AC_HELP_STRING([--enable-webp-shared], [dynamically load WEBP support [[default=yes]]]),
  [], [enable_webp_shared=yes])
 
-if test x$enable_jpg = xyes || test x$enable_tif = xyes; then
+dnl Show a message when we use ImageIO support so it's not a surprise
+AC_MSG_CHECKING([for ImageIO support])
+AC_MSG_RESULT($enable_imageio)
+
+if (test x$enable_jpg = xyes || test x$enable_tif = xyes) && test x$enable_imageio != xyes; then
     AC_CHECK_HEADER([jpeglib.h], [have_jpg_hdr=yes])
     AC_CHECK_LIB([jpeg], [jpeg_CreateDecompress], [have_jpg_lib=yes])
     if test x$have_jpg_hdr = xyes -a x$have_jpg_lib = xyes; then
@@ -176,12 +180,9 @@ if test x$enable_jpg = xyes || test x$enable_tif = xyes; then
                 jpg_lib=[`find_lib "libjpeg*.dll"`]
                 ;;
             *)
-                jpg_lib=[`find_lib "libjpeg.so.[0-9]"`]
+                jpg_lib=[`find_lib "libjpeg[0-9]*.so.*"`]
                 if test x$jpg_lib = x; then
-                    jpg_lib=[`find_lib "libjpeg.so.[0-9][0-9]"`]
-                fi
-                if test x$jpg_lib = x; then
-                    jpg_lib=[`find_lib "libjpeg.so.[0-9]*"`]
+                    jpg_lib=[`find_lib "libjpeg.so.*"`]
                 fi
                 ;;
         esac
@@ -191,7 +192,7 @@ if test x$enable_jpg = xyes || test x$enable_tif = xyes; then
     fi
 fi
 
-if test "x$enable_png" = xyes; then
+if test x$enable_png = xyes -a x$enable_imageio != xyes; then
     PKG_CHECK_MODULES([LIBPNG], [libpng], [dnl
         have_png_hdr=yes
         CFLAGS="$LIBPNG_CFLAGS $CFLAGS"
@@ -211,15 +212,9 @@ if test "x$enable_png" = xyes; then
                 png_lib=[`find_lib "libpng*.dll"`]
                 ;;
             *)
-                png_lib=[`find_lib "libpng.so.[0-9]"`]
+                png_lib=[`find_lib "libpng[0-9]*.so.*"`]
                 if test x$png_lib = x; then
-                    png_lib=[`find_lib "libpng.so.[0-9]*"`]
-                fi
-                if test x$png_lib = x; then
-                    png_lib=[`find_lib "libpng*.so.[0-9]"`]
-                fi
-                if test x$png_lib = x; then
-                    png_lib=[`find_lib "libpng*.so.[0-9]*"`]
+                    png_lib=[`find_lib "libpng.so.*"`]
                 fi
                 ;;
         esac
@@ -229,7 +224,7 @@ if test "x$enable_png" = xyes; then
     fi
 fi
 
-if test x$enable_tif = xyes; then
+if test x$enable_tif = xyes -a x$enable_imageio != xyes; then
     AC_CHECK_HEADER([tiffio.h], [have_tif_hdr=yes])
     AC_CHECK_LIB([tiff], [TIFFClientOpen], [have_tif_lib=yes], [], [-lz])
     if test x$have_tif_hdr = xyes -a x$have_tif_lib = xyes; then
@@ -243,9 +238,9 @@ if test x$enable_tif = xyes; then
                 tif_lib=[`find_lib "libtiff-*.dll"`]
                 ;;
             *)
-                tif_lib=[`find_lib "libtiff.so.[0-9]"`]
+                tif_lib=[`find_lib "libtiff[0-9]*.so.*"`]
                 if test x$tif_lib = x; then
-                    tif_lib=[`find_lib "libtiff.so.[0-9]*"`]
+                    tif_lib=[`find_lib "libtiff.so.*"`]
                 fi
                 ;;
         esac
@@ -275,15 +270,9 @@ if test x$enable_webp = xyes; then
                 webp_lib=[`find_lib "libwebp*.dll"`]
                 ;;
             *)
-                webp_lib=[`find_lib "libwebp.so.[0-9]"`]
+                webp_lib=[`find_lib "libwebp[0-9]*.so.*"`]
                 if test x$webp_lib = x; then
-                    webp_lib=[`find_lib "libwebp.so.[0-9]*"`]
-                fi
-                if test x$webp_lib = x; then
-                    webp_lib=[`find_lib "libwebp*.so.[0-9]"`]
-                fi
-                if test x$webp_lib = x; then
-                    webp_lib=[`find_lib "libwebp*.so.[0-9]*"`]
+                    webp_lib=[`find_lib "libwebp.so.*"`]
                 fi
                 ;;
         esac
@@ -377,6 +366,6 @@ OBJCFLAGS=$CFLAGS
 # Finally create all the generated files
 AC_OUTPUT([
 Makefile
-SDL_image.spec
-SDL_image.pc
+SDL2_image.spec
+SDL2_image.pc
 ])

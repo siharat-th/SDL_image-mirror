@@ -1,1 +1,1 @@
-Revision 472: Make XPM loader deal with NULL input correctly.
+Revision 473: XPM should deal with NULL input correctly (thanks, Nitz!).
