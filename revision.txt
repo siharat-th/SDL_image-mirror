@@ -1,1 +1,1 @@
-Revision 267: Fixed libpng version check
+Revision 268: Fixed bug with IMG_Init() return value.
