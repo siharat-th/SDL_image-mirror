@@ -1,1 +1,1 @@
-Revision 410: Updated the name of the copyright file
+Revision 411: Fixed bug 1943 - Wrong handling of legacy 32bpp BMP files
