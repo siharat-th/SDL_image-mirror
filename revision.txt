@@ -1,1 +1,1 @@
-Revision 480: Removed explicit setting of TargetMachine
+Revision 481: Removed dependencies on standard C runtime
