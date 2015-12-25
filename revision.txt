@@ -1,1 +1,1 @@
-Revision 127: Updated libtool to version 1.5.22
+Revision 128: Fixed signed/unsigned mismatch warnings on Mac OS X PowerPC
