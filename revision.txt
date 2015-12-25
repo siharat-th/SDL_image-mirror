@@ -1,1 +1,1 @@
-Revision 154: SDL_image shouldn't dereference a rwops if it's NULL.
+Revision 155: Don't actually link with libraries you don't have
