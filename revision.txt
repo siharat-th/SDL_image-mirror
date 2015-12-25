@@ -1,1 +1,1 @@
-Revision 227: Updated find_lib to use $base_libdir
+Revision 228: Eric Wing to Sam
