@@ -1,1 +1,1 @@
-Revision 349: Changed the name of the package for consistency with libsdl2
+Revision 350: Updated debian files to be consistent across SDL packages
