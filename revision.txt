@@ -1,1 +1,1 @@
-Revision 217: Updated libtool to version 2.2.6a
+Revision 218: Mike Frysinger      2009-10-04 22
