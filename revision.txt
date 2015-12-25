@@ -1,1 +1,1 @@
-Revision 286: Needed .libs on the ignore list
+Revision 287: Find the new JPEG library on Win32
