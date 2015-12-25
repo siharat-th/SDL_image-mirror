@@ -1,1 +1,1 @@
-Revision 202: Fixed crash with right side up BMP files
+Revision 203: Christian Walther      2008-01-13 07
