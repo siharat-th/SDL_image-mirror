@@ -1,1 +1,1 @@
-Revision 401: Added the external directory to the release archive
+Revision 402: Make sure the .m files come from the source directory
