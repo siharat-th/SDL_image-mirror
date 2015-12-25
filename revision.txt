@@ -1,1 +1,1 @@
-Revision 226: Fixed for compiling with gcc 4.2
+Revision 227: Updated find_lib to use $base_libdir
