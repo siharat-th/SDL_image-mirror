@@ -1,1 +1,1 @@
-Revision 469: Needed to move the webp license file so the framework could be signed
+Revision 470: Fixed last validation warnings with Xcode 6
