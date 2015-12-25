@@ -1,1 +1,1 @@
-Revision 425: Fixed bug 1754 - Link SDL_image HG to Cocoa
+Revision 426: Fixed big endian compile error
