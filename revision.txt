@@ -1,1 +1,1 @@
-Revision 338: Don't install the static library, search for the framework in the application bundle Frameworks directory.
+Revision 339: Fixed bug 1640 - More colors recognized for XPM format
