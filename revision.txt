@@ -1,1 +1,1 @@
-Revision 444: Added JPEG support for WinRT + Windows Phone 8
+Revision 445: Cleaned up and rearranged WinRT project file structure.
