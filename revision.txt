@@ -1,1 +1,1 @@
-Revision 423: Updated documentation file names
+Revision 424: Fixed warnings building under Android
