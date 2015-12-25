@@ -1,1 +1,1 @@
-Revision 42: *** empty log message ***
+Revision 43: Sam Lantinga - Sun Aug 19 01
