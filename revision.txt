@@ -1,1 +1,1 @@
-Revision 415: Fixed bug 1991 - XCF and LBM image loading might lead to random crashes
+Revision 416: Added code signature step to Framework build process
