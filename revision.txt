@@ -1,1 +1,1 @@
-Revision 354: Updated library version to 2.0 for consistency with SDL 2.0
+Revision 355: Added support for webp on big endian systems
