@@ -1,1 +1,1 @@
-Revision 470: Fixed last validation warnings with Xcode 6
+Revision 471: Fixed whitespace so it's easier to read
