@@ -1,1 +1,1 @@
-Revision 392: Added miniz.c to the distribution files
+Revision 393: Fixed bug 1432 - SDL 1.2 compatibility for SDL_image HG
