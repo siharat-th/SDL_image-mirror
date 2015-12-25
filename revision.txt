@@ -1,1 +1,1 @@
-Revision 224: Missing the iPhone project
+Revision 225: SDL_image.spec.in is implicitly included
