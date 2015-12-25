@@ -1,1 +1,1 @@
-Revision 169: Look for dynamic libraries with version numbers on Mac OS X
+Revision 170: Prefer to load libraries by major number, not minor number
