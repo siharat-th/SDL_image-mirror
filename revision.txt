@@ -1,1 +1,1 @@
-Revision 120: Support XCF files by default
+Revision 121: Updated copyright information
