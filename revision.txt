@@ -1,1 +1,1 @@
-Revision 233: Sam Lantinga - Sun Nov  8 07
+Revision 234: Updated version to 1.2.9
