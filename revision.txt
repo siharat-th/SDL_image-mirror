@@ -1,1 +1,1 @@
-Revision 322: Fixed building on Linux
+Revision 323: Successfully build an SDL2_image RPM
