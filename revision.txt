@@ -1,1 +1,1 @@
-Revision 366: Removed Mac OS X bug workaround.  SDL is fixed, thanks Jorgen!
+Revision 367: Fixed bug 1821 - IMG_LoadLBM/PNM/XCF_RW() crash with a heap corruption on loading LBM, PNM or XCF images
