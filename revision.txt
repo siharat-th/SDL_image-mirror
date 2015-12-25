@@ -1,1 +1,1 @@
-Revision 4: Mattias Engdeg�rd - Wed Aug  9 20
+Revision 5: TIFF support is disabled by default
