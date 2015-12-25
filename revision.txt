@@ -1,1 +1,1 @@
-Revision 433: Fixed bug 2219 - BMP loader do not handle big BITMAPINFOHEADER structure
+Revision 434: Fixed signed/unsigned warning
