@@ -1,1 +1,1 @@
-Revision 264: Whoops, forgot to remove the packed version
+Revision 265: Fixed compiling with libpng12
