@@ -1,1 +1,1 @@
-Revision 424: Fixed warnings building under Android
+Revision 425: Fixed bug 1754 - Link SDL_image HG to Cocoa
